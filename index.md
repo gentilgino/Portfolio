@@ -67,10 +67,10 @@
                     <img src="./instagram icon.png">
                   instagram
                   </a>
-                  <a href="https://www.whatsapp.com/">
+                  
                     <img src="./whatsapp icon.png">
-                  whatsapp
-                  </a>
+                  +250789050774
+                  
                   <a href="https://www.facebook.com/">
                     <img src="./facebook icon.png">
                   facebook
