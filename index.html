@@ -63,7 +63,7 @@
                     I am an adaptable college student doing BBICT(Bachelor in Business Information Communication and Technology) currently at the Mount Kenya University/Kigali campus in My Third Academic Year. During the course of my academic career, I have managed to accrue nearly two years of work experience. I learned valuable professional skills such as Customer Communication, Customer Needs Assessment and Customer Satisfactions both in the Business  and in IT deparment. Whether working on academic, extracurricular, or professional projects. I apply proven communication, research and planning skills.
                   </p>
                   <br>
-                  <a href="https://www.instagram.com/">
+                  <a href="https://www.instagram.com/abednego.gentil/">
                     <img src="./instagram icon.png">
                   instagram
                   </a>
